@@ -1,4 +1,9 @@
 public class test1{
+int n1 = 2;
+int n2 = 4;
+
+int suma = n1 + n2;
+System.out.println("El resultado de la suma es: " + suma)
 
 
 }
